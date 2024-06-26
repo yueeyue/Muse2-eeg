@@ -3,6 +3,9 @@
 ## Overview
 This repository contains EEG data collected from eight volunteers engaged in six different activities, using the Muse2 headband equipped with a four-channel EEG sensor setup. The dataset is intended for research into human cognitive and physiological responses under various conditions.
 
+## Data Link
+https://www.dropbox.com/scl/fi/1vkaq5jjl3m8lx1sxl1fc/Muse2-dataset.zip?rlkey=m9d5muvk4r5yke9uomybq6zsn&st=p8956boi&dl=0
+
 ## Data Collection Equipment
 - **Device:** Muse2 Headband
 - **Channels:**

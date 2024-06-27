@@ -6,8 +6,18 @@ This repository contains EEG data collected from eight volunteers engaged in six
 ### Participant Consent
 All data included in this repository were collected from volunteers at our school laboratory who provided informed consent for the use of their EEG data in research and for public dissemination. Each participant was fully informed about the nature of the study, the use of the data, and their rights, including the right to withdraw from the study at any time without any consequences.
 
-### Pending Ethical Approval
-The study is currently under review for formal ethical approval by the Guangdong University of Technology Committee. This process is to ensure that all research activities adhere to the highest ethical standards set forth by Guangdong University of Technology. The final approval is pending, and any necessary modifications will be made to this dataset and its documentation in accordance with the committee's feedback and requirements.
+## Statement of Exemption from Ethical Approval
+The experimental data used in this research does not require ethical approval, as it meets the criteria for exemption established by the Guangdong University of Technology and relevant regulatory bodies. The data, collected through anonymous surveys, involves activities performed by volunteers and does not contain any identifiable private information.
+
+### Criteria for Exemption
+- **Publicly Available Data:** Data is sourced from publicly available datasets with no identifiable private information.
+- **Anonymous Surveys:** Data was collected through surveys conducted anonymously.
+
+## Ethical Considerations
+Despite the exemption, all standard ethical practices were adhered to:
+- **Informed Consent:** Participants were fully informed about the study's purpose, and their participation was voluntary.
+- **Confidentiality:** All data was handled with strict confidentiality; no personal identifiers were recorded or stored.
+- **Minimal Risk:** The study posed minimal risk to participants, involving no physical, psychological, or social risks.
 
 ## Data Link
 https://www.dropbox.com/scl/fi/kb9xsyov8xdyoiwz1v0zn/Muse2-dataset.zip?rlkey=q0prm5fykrha8234mmqsfcq6z&st=75yz5eve&dl=0

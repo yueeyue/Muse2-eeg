@@ -3,8 +3,14 @@
 ## Overview
 This repository contains EEG data collected from eight volunteers engaged in six different activities, using the Muse2 headband equipped with a four-channel EEG sensor setup. The dataset is intended for research into human cognitive and physiological responses under various conditions.
 
+### Participant Consent
+All data included in this repository were collected from volunteers at our school laboratory who provided informed consent for the use of their EEG data in research and for public dissemination. Each participant was fully informed about the nature of the study, the use of the data, and their rights, including the right to withdraw from the study at any time without any consequences.
+
+### Pending Ethical Approval
+The study is currently under review for formal ethical approval by the Guangdong University of Technology Committee. This process is to ensure that all research activities adhere to the highest ethical standards set forth by Guangdong University of Technology. The final approval is pending, and any necessary modifications will be made to this dataset and its documentation in accordance with the committee's feedback and requirements.
+
 ## Data Link
-https://www.dropbox.com/scl/fi/1vkaq5jjl3m8lx1sxl1fc/Muse2-dataset.zip?rlkey=m9d5muvk4r5yke9uomybq6zsn&st=p8956boi&dl=0
+https://www.dropbox.com/scl/fi/kb9xsyov8xdyoiwz1v0zn/Muse2-dataset.zip?rlkey=q0prm5fykrha8234mmqsfcq6z&st=75yz5eve&dl=0
 
 ## Data Collection Equipment
 - **Device:** Muse2 Headband

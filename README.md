@@ -6,7 +6,7 @@ This repository contains EEG data collected from eight volunteers engaged in six
 ### Participant Consent
 All data included in this repository were collected from volunteers at our school laboratory who provided informed consent for the use of their EEG data in research and for public dissemination. Each participant was fully informed about the nature of the study, the use of the data, and their rights, including the right to withdraw from the study at any time without any consequences.
 
-## Statement of Exemption from Ethical Approval
+### Statement of Exemption from Ethical Approval
 The experimental data used in this research does not require ethical approval, as it meets the criteria for exemption established by the Guangdong University of Technology and relevant regulatory bodies. The data, collected through anonymous surveys, involves activities performed by volunteers and does not contain any identifiable private information.
 
 ### Criteria for Exemption
